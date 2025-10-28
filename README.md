@@ -49,26 +49,6 @@ This structure keeps the project modular, scalable, and easy to maintain.
 
 ---
 
-## 🗂️ Folder Structure
-
-src/
-├── api/
-│ └── weather.js # All API calls (Geo + Weather)
-│
-├── components/
-│ ├── SearchBar.jsx
-│ ├── WeatherCard.jsx
-│ ├── Loader.jsx
-│ └── ErrorMessage.jsx
-│
-├── utils/
-│ └── formatWeatherData.js # Data formatting helpers
-│
-├── App.jsx
-└── main.jsx
-
----
-
 ## ⚙️ Setup & Installation
 
 To run the project locally:
